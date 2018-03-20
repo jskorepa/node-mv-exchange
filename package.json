@@ -1,5 +1,5 @@
 {
-  "name": "node-linux-exchange-files",
+  "name": "mv-exchange",
   "version": "0.1.0",
   "description": "Simple native addon calling renameat2 with EXCHANGE flag",
   "main": "index.js",
@@ -17,9 +17,7 @@
   "engines": {
     "node": ">= 8.0"
   },
-  "os": [
-    "linux"
-  ],
+  "os": ["linux"],
   "devDependencies": {
     "prettier": "^1.11.1"
   }
