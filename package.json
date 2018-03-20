@@ -1,6 +1,6 @@
 {
   "name": "mv-exchange",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple native addon calling renameat2 with EXCHANGE flag",
   "main": "index.js",
   "dependencies": {
@@ -20,5 +20,12 @@
   "os": ["linux"],
   "devDependencies": {
     "prettier": "^1.11.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jskorepa/node-mv-exchange"
+  },
+  "bugs": {
+    "url": "https://github.com/jskorepa/node-mv-exchange/issues"
   }
 }
